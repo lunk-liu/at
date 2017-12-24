@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Affärstryckeriet i Norrtälje</title>
+    <link>http://localhost:1337/</link>
+    <description>Recent content on Affärstryckeriet i Norrtälje</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1337/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>tjena</title>
+      <link>http://localhost:1337/posts/tjena-slug/</link>
+      <pubDate>Tue, 12 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1337/posts/tjena-slug/</guid>
+      <description>tjena rubrik tjena brödtext</description>
+    </item>
+    
+    <item>
+      <title>FAQ-sida</title>
+      <link>http://localhost:1337/faq.1/</link>
+      <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1337/faq.1/</guid>
+      <description>FAQ Snott från http://www.tryckakuten.se/page/faq
+Vad gör jag om jag känner mig osäker när jag ska beställa? Ingen fråga är för dum, kontakta oss så hjälper vi er med era funderingar. Behoven är väldigt olika och vi guidar dig gärna till en perfekt produkt och lösning som passar dig och din verksamhet.
+Det jag behöver finns inte på er hemsida Eftersom trycksaker kan produceras i oändliga former och upplagor kan vi inte lägga upp allt på vår hemsida.</description>
+    </item>
+    
+    <item>
+      <title>FAQ-sida</title>
+      <link>http://localhost:1337/faq/</link>
+      <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1337/faq/</guid>
+      <description>FAQ Snott från http://www.tryckakuten.se/page/faq
+Vad gör jag om jag känner mig osäker när jag ska beställa? Ingen fråga är för dum, kontakta oss så hjälper vi er med era funderingar. Behoven är väldigt olika och vi guidar dig gärna till en perfekt produkt och lösning som passar dig och din verksamhet.
+Det jag behöver finns inte på er hemsida Eftersom trycksaker kan produceras i oändliga former och upplagor kan vi inte lägga upp allt på vår hemsida.</description>
+    </item>
+    
+    <item>
+      <title>Lämna material</title>
+      <link>http://localhost:1337/material/</link>
+      <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1337/material/</guid>
+      <description>MAIL, FTP, DROPBOX ELLER SPREND? Om du vill föra över digitalt material till Affärstryckeriet utan att behöva komma förbi med ett USB minne är det e-mail, FTP, Dropbox eller Sprend som gäller. Att skicka filer via e-mail går bra så länge de ej är för stora eller kräver specifik sekretess. Det smidigaste och säkraste sättet dock är att sända filer till oss via vår FTP-server, det går betydligt fortare via FTP:n än via mail och om det mot förmodan blir ett avbrott i internetuppkopplingen så innebär det inte något kritiskt för materialet du ”FTP:ar” över, inget försvinner, det är bara att återuppta ned/uppladdningen.</description>
+    </item>
+    
+    <item>
+      <title>Miljö</title>
+      <link>http://localhost:1337/miljo/</link>
+      <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1337/miljo/</guid>
+      <description>MED TRYCK PÅ MILJÖN!  Bild på svanenlogga*  Utan en levande miljö kan inte mänskligheten som vi känner den överleva just därför är miljön ett ledord som genomsyrar hela vårt företag, miljöaspekterna är en självklarhet. Sverige är ett formidabelt exempel på god skogsvård ända sedan 1903 då man var tvungen att agera kraftfullt för att motverka den enorma utarmning av skogarna som pågick under 1800-talet. Skogsvårdslagen borgar för att en framtid finns för våra skogar genom en god skötsel och ett gott skogsbruk.</description>
+    </item>
+    
+  </channel>
+</rss>
